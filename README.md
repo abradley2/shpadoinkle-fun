@@ -1,0 +1,1 @@
+nix-build && echo "DONE" && ./result/bin/snowman
